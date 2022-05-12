@@ -12,6 +12,7 @@ Python 3.6, torch>=1.5.1, torchvision>=0.6.1, numpy
 The file `reverse_polygon.py` is for detecting models trojaned by polygon patch triggers, and `reverse_filter.py` is for 
 detecting models trojaned by Instagram Filter triggers. 
 
+### Quick Start
 To run the code, please first modify the dataset path and output path,
 then simply run the command:
 ```bash
